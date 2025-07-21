@@ -54,7 +54,7 @@ Ce projet Python permet de récupérer automatiquement le **nom d’un produit**
 
 ---
 
-## ▶️ Utilisation
+##  Utilisation
 
 1. Exécute le script en ligne de commande avec un code EAN ou UPC :
 
