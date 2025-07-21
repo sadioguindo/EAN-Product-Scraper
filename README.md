@@ -1,1 +1,0 @@
-# EAN-Product-Scraper 
