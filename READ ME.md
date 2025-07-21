@@ -1,8 +1,8 @@
-# 📦 BarcodeLookup Product Scraper
+# Product Scraper
 
 Ce projet Python permet de récupérer automatiquement le **nom d’un produit** et son **image** à partir de son code EAN/UPC en utilisant le site [BarcodeLookup](https://www.barcodelookup.com).
 
-> 🧪 Utilise `Selenium`, `ChromeDriver` et `BeautifulSoup` pour automatiser la récupération des données.
+>  Utilise `Selenium`, `ChromeDriver` et `BeautifulSoup` pour automatiser la récupération des données.
 
 ---
 
@@ -33,7 +33,7 @@ Ce projet Python permet de récupérer automatiquement le **nom d’un produit**
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Cloner le dépôt GitHub** :
    ```bash
@@ -51,19 +51,6 @@ Ce projet Python permet de récupérer automatiquement le **nom d’un produit**
    ```bash
    pip install -r requirements.txt
    ```
-
----
-
-## 🧾 Fichier `requirements.txt`
-
-Tu peux créer ce fichier avec le contenu suivant :
-
-```
-selenium
-beautifulsoup4
-webdriver-manager
-urllib3
-```
 
 ---
 
@@ -87,7 +74,6 @@ urllib3
 
 ## 💡 Remarques
 
-- Le site [BarcodeLookup.com](https://www.barcodelookup.com) peut changer son design. Si le scraping échoue, pense à mettre à jour les sélecteurs CSS.
 - L’utilisation excessive de scraping peut entraîner un blocage temporaire par le site.
 - Le scraping de données doit respecter les [conditions d'utilisation du site](https://www.barcodelookup.com/terms).
 
@@ -115,7 +101,7 @@ Ce projet est open-source sous licence MIT. Voir [LICENSE](LICENSE) pour plus d'
 
 ---
 
-## 🙋‍♀️ Contribuer
+##  Contribuer
 
 Les contributions sont les bienvenues ! Tu peux :
 
